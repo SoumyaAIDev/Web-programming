@@ -6,7 +6,7 @@
 		<form method="post" action="">
 			name <input type="text" name="name"><br />
 			mobile no <input type="text" name="mnum"><br />
-			gender <input type="radio" name="gen" value="m">male<br /> 
+			gender <input type="radio" name="gen" value="m">male<br />
 			 <input type="radio" name="gen" value="f">female<br />
 			 <input type="radio" name="gen" value="o">other<br />
 			address <textarea rows="5" cols="10" name="addr"></textarea><br />
